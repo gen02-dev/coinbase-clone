@@ -1,4 +1,4 @@
-# coinbase-clone-starter
+# coinbase-clone
 
 This project is a fork of [Ethereum React Native Boilerplate](https://github.com/ethereum-boilerplate/ethereum-react-native-boilerplate) and shows how you can easily clone an app like Coinbase using Moralis.
 
@@ -21,7 +21,7 @@ If you need help with setting up the boilerplate or have other questions - don't
 💿 Install all dependencies:
 
 ```sh
-cd ethereum-react-native-boilerplate
+cd coinbase-clone
 yarn install
 
 cd ios
